@@ -1,0 +1,11 @@
+first we have to make docker image
+
+in docker images have to install this -
+1- openssh-server & clients
+2- epel-release
+3- shellinabox
+4- set the sshd-keygen and on the service
+
+and commit the docker image
+
+after, then will use codes
