@@ -7,8 +7,8 @@ Containers allow a developer to package up an application with all of the parts 
 and ship it all out as one package.
 - CLoud : type of service like CAAS (Container as s service)
 - Ansible : backed part done with ansible automation
-- Python
-server : RHEL 7.1
+- Python-cgi : backend part 
+- server : RHEL 7.1
  
  About the project
  
